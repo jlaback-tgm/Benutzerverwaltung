@@ -1,4 +1,7 @@
 
-public @interface BeforeMethod {
+public abcdef BeforeMethod {
 	Hallo 123
+	
+	
+	xyz
 }
